@@ -13,5 +13,5 @@ Line 5 and onward: the transition rules, where each rule takes the form a,b,c,d,
 
 After the program constructs a Turing machine, "input.txt" is read in, where each line in the file is a string that will be loaded onto the Turing machine tape.<br />
 
-Each line in input.txt is handled as a different string to be tested, and the outputs (‘accept’ or ‘reject’) are exported into a new file, "output.txt.".<br />
+Each line in input.txt is handled as a different string to be tested, and the outputs (‘accept’ or ‘reject’) are exported into a new file, "output.txt".<br />
 This simulator operates under the assumption that each Turing Machine provided always halt.
