@@ -3,7 +3,7 @@
 
 
 
-This is a Python program that simulates a Turing Machine. The program reads in two files, "tm.txt" and "input.txt"; and exports the result as "output.txt".<br />
+<h2>This is a Python program that simulates a Turing Machine. The program reads in two files, "tm.txt" and "input.txt"; and exports the result as "output.txt".<br /> </h2>
 The structure of tm.txt will be as follows: <br />
 Line 1: the states of the Turing machine (separated by commas, and ‘accept’ and ‘reject’ will always be states)<br />
 Line 2: the input alphabet (separated by commas, if there is more than one symbol)<br />
